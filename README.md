@@ -5,6 +5,7 @@
 ***Problem Statement ID :*** 1641.
 
 ***Description :***
+
 Problem Overview Educational institutes generate vast amounts of data each year, including academic performance, research publications, financial statements, infrastructure developments, student and faculty achievements, and extracurricular activities. 
 Preparing a comprehensive and insightful annual report that accurately reflects the institute's accomplishments and growth is a complex and time-consuming task. 
 It requires the aggregation, organization, analysis, and presentation of diverse data sources in a coherent and visually appealing manner. 
