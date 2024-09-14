@@ -5,6 +5,10 @@
 
 ***Problem Statement ID :*** 1641.
 
+***Category :*** Software.
+
+***Theme :*** Smart Education.
+
 ***Description :***
 
 - Problem Overview Educational institutes generate vast amounts of data each year, including academic performance, research publications, financial statements, infrastructure developments, student and faculty achievements, and extracurricular activities.
